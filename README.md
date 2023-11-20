@@ -2,7 +2,7 @@
 
 🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2)]
 
-✒️ Eu gosto de no meu tempo livre [Filmes, esportes e viagens];
+✒️ Eu gosto de, no meu tempo livre, [Filmes, esportes e viagens];
 
 ### Eu já trabalhei com... 🔧
 
